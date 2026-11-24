@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="passionLife">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C9593B"/>
+      <stop offset="1" stop-color="#A94329"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <path d="M112 369H215V266H317V164" fill="none" stroke="#FFF9F4" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="317" cy="164" r="22" fill="#FFF9F4"/>
+</svg>
